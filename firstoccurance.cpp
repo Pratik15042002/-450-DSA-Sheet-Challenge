@@ -1,4 +1,9 @@
 
+
+
+
+// binary search approach we can also call it as two point approach
+
 #include <iostream>
 
 using namespace std;
