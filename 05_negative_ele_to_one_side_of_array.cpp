@@ -1,4 +1,7 @@
 
+// neggative ele to one qyes 
+
+
 void arrange(int a[], int n) {
     int negi = 0;
     int posi = n - 1;
