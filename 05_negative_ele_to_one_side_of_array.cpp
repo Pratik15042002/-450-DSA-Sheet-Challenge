@@ -1,6 +1,7 @@
 
 // neggative ele to one qyes 
 
+// binary saerch approach
 
 void arrange(int a[], int n) {
     int negi = 0;
