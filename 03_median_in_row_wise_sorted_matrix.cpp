@@ -3,7 +3,7 @@
 
     sol: https://www.geeksforgeeks.org/find-median-row-wise-sorted-matrix/
 
-    here logic was
+   logic
     1. based on the total ele in matrix find mid pos (called it desired pos, will help for count)
     2. find max, min
     3. now everytime find mid based on min and max, parallely find count of ele. less than mid and if
