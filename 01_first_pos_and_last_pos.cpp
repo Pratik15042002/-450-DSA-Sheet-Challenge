@@ -1,5 +1,5 @@
 
-// solved 3 times
+// solved 3 times available on gfg
 
 /*
     link: https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1
