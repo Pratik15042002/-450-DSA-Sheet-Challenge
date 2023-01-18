@@ -1,6 +1,6 @@
 /*
     link: https://leetcode.com/problems/count-and-say/submissions/
-
+note for this question
     here its given for base case n=1 => "1"
     now
     n=2 from prev make this so "11" 1 time 1
