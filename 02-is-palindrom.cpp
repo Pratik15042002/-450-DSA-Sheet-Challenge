@@ -2,8 +2,6 @@
 	link: https://practice.geeksforgeeks.org/problems/palindrome-string0817/1
 */
 
-
-// ----------------------------------------------------------------------------------------------------------------------- //
 // method 1
 class Solution {
 public:
