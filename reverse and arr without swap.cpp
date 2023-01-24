@@ -1,3 +1,5 @@
+// revrese an array without swap function just use the temp and assig the data
+
 
 #include <iostream>
 using namespace std;
