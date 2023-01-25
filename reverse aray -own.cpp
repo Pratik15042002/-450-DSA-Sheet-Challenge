@@ -1,3 +1,4 @@
+// reveres an array
 #include <bits/stdc++.h> 
 void reverseArray(vector<int> &arr , int m)
 {
