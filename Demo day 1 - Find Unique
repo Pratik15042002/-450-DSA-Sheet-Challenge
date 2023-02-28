@@ -1,7 +1,7 @@
 // Find Unique //
  You have been given an integer array/list of size N where N is equal to (2M+1) .Now in the given arraylist , M numbers arae present twice and one number is present only once. You need to find and return thta number which is unique in thta arraylist.
  code -
- 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  int findUnique( int *arr , int size)
  {
            int ans = 0;
